@@ -1,1 +1,1 @@
-# I-SCZ-3DCNN
+# SCZ-3DCNN
